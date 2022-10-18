@@ -1,0 +1,40 @@
+Describe what an operating system does
+* An operating system (OS): "Software for controlling the allocation and use of various hardware resources (memory, CPU time, disk space, input and output devices) to tasks and remote terminals." Think of it as the central program of your computer that allows you to use it in its entirety.
+
+
+
+
+List some popular operating systems
+* Windows
+* macOS - a Unix based operating system
+* Linux - a Unix based operating system
+
+
+
+
+
+Setup and use another operating system using virtualization (which is the assignment)
+
+
+
+
+
+Compare containerization with virtualization and highlight the differences
+* Example of a container that I've used in Develop Carolina is Docker
+* Containers do tend to be lighter weight than VMs but do 
+* "Containers include the application and all its dependencies. However, they share the OS kernel with other containers, running as isolated processes in user space on the host operating system." While VM includes the contents of an entirely different OS.
+
+
+
+
+
+Compare some features of your original operating system with the operating system you tried out
+* The OS is open-source, that's a big thing. It's completely free.
+* A very easy set up process.
+* No cloud accounts required like for Mac (as far as I know)
+
+
+
+
+
+

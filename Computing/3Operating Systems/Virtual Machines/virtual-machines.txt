@@ -1,0 +1,106 @@
+
+
+
+
+
+What is an OS? Same as question 1 on Operating Systems
+
+
+
+
+
+What is a VM?
+* Virtual machine: "A software emulation of a computer that runs in an isolated partition of a real computer."
+* There are many reasons it can be useful:
+** Brings down cost
+** To be able to run programs that may otherwise not be able to be run on the main operating system
+** Security purposes
+** Increase efficiency and productivity (less servers)
+** DevOps - If you need to do something to the 
+
+
+
+
+What is an .iso file?
+* A disk image of an ISO 9660 file system (such as a CD or DVD); also used as the file extension for such a file.
+* In this case, it is used to hold the file of the OS data.
+* I was able to download that online in this case. The disc generally holds it and that's what you put into your system, but 
+
+
+
+
+How much memory did you allocate to the virtual machine?
+* 20 GB (I picked a random number, no particular reason to be honest.)
+* Actually 2.00 MB on the real disk.
+* dynamically allocated storage - actually means it "will initially be very small and not occupy any space for unused virtual disk sectors, but will grow every time a disk sector is written to for the first time, until the drive reaches the maximum capacity chosen when the drive was created."
+
+
+
+
+
+--Cutoff--
+
+* Tech lead
+* 4 developers
+* QA
+* Scrum master
+* TRA - Technical Requirements Analyst
+* Dedicated UI/UX is missing at BAH
+
+* Most companies have design patterns
+* Not entirely certain on how that is run.
+
+BID and BDMS don't have dedicated UX people
+
+But I have worked on teams that have a person on the team who is a designer.
+
+They'll be in a main design team BUT in separate projects.
+
+We are a service-based team.
+
+Projects have levels of confidentiality so this may be hard to do.
+
+Deliverable - what you owe someone. Your deliverable is the code that does everything that is being asked of you.
+
+
+* Start with my project
+** 1. Are there any designers on the team I could talk to?
+* I could talk to a friend mine.
+* Ask her to take this out of our list.
+
+* Mentor can try to track something down.
+* Mentor would like me to first try and explore this on my own.
+
+
+
+
+1. Understand what paired programming is.
+2. Get the support from your team and finding a partner that wants to do that as well.
+3. Ask every single member on my team, to see if someone wanted to pair program, to genuinely work on something.
+
+
+
+* Look into OneNote
+
+
+* Data set is so large, we don't have a good way to search through it and find what we need without too much data
+
+
+Talk to Emily about:
+* Get into the repository with the pipeline we're gonna be working on
+* Look into CMIP6
+
+* There's not a specific designer
+* She could check the roster
+* Infrastructure technology lead
+* POCs for different portions?
+* Specifically a graphic designer? I don't think so.
+
+* ARM is a newer spec for CPU architecture
+
+
+
+* Go to time.bah.com
+* Write critiques
+* Share with mentor
+* That should be enough

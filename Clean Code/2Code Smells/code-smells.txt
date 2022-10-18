@@ -1,0 +1,33 @@
+Code Smells
+With this topic, you'll learn about signals in your codebase that can indicate poor design or the lack of best practices.
+
+Learning Outcomes
+
+
+List some common code smells
+* Inconsistency
+* Unreadable
+** Function and variable names that don't mean anything
+* Large classes
+** Large functions too
+** You don't want classes that perform multiple tasks or run the whole program
+* Dead code
+* 
+
+
+
+
+Find some refactorings that clean up common code smells
+
+
+
+
+
+
+Theorize how you might better identify code smells
+
+
+
+
+
+

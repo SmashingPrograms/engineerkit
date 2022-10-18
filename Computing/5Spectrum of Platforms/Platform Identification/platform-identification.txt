@@ -1,0 +1,14 @@
+Personal laptop: 2020 MacBook Pro (13 inches) + macOS Catalina 10.15.7 + Google Chrome 106.0.5249.91
+Personal cell phone: Pixel 2 + Android 11 + Google Chrome 106.0.5249.91
+Company laptop: 2021 MacBook Pro (16 inches) + macOS Monterey 12.6 + Google Chrome 106.0.5249.91
+
+
+
+
+How would you create software for each of the platforms you discovered?
+* Oftentimes, web developers have to test their code on multiple browsers to see if they will be widely browser compatible
+* Many resources are handy, such as w3schools, for determining compatibility of an element on various browsers, for example: https://www.w3schools.com/TAGS/tag_br.asp In this example, they are all compatible.
+
+What kind of platforms are you targeting to ship your product to?
+* Generally web developers ship software to support both mobile and desktop users, across multiple browsers and OSes.
+* Specifically, attention is often taken in frontend development to have both mobile and desktop support. Most browsers and OSes can work about the same way.

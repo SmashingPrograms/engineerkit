@@ -1,0 +1,15 @@
+Here are some recommended ways to get involved in the tech scene in South Carolina:
+* Do some online courses:
+** SCCodes
+** FreeCodeCamp
+** Coursera (usually paid)
+** Udemy (usually paid)
+** Pluralsight (usually paid)
+* Join some Slack groups about coding and participate in them:
+** SCCodes slack
+** HackGreenville slack
+
+----
+
+What are you looking to get from a community?
+Why might you want to be connected with a community?

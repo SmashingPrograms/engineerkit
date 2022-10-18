@@ -1,0 +1,34 @@
+Why is it important to preserve the past?
+* Speak impromptu, come on, this is your area
+
+
+
+What can you learn from old websites?
+* Speak impromptu, come on, this is your area
+
+
+
+How might you use the Wayback Machine API?
+* https://archive.org/help/wayback_api.php
+"""
+This simple API for Wayback is a test to see if a given url is archived and currenlty accessible in the Wayback Machine. This API is useful for providing a 404 or other error handler which checks Wayback to see if it has an archived copy ready to display. The API can be used as follows:
+
+http://archive.org/wayback/available?url=example.com
+which might return:
+
+{
+    "archived_snapshots": {
+        "closest": {
+            "available": true,
+            "url": "http://web.archive.org/web/20130919044612/http://example.com/",
+            "timestamp": "20130919044612",
+            "status": "200"
+        }
+    }
+}
+if the url is available. When available, the url is the link to the archived snapshot in the Wayback Machine At this time, archived_snapshots just returns a single closest snapshot, but additional snapshots may be added in the future.
+
+If the url is not available (not archived or currently not accessible), the response will be:
+
+{"archived_snapshots":{}}:
+"""

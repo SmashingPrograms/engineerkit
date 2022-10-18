@@ -1,0 +1,35 @@
+Use the following steps to help you progress through the exercise (use your best judgment, these are not precise steps):
+
+* Connect with your mentor and figure out the best way to pair with other software engineers on your team
+* Schedule some pairing sessions
+* Pair with the other software engineers
+* Share the results with your mentor
+
+
+
+Questions
+Use these questions to guide your curiosity during the exercise:
+
+What did you learn when pairing?
+* I learned that the concept that people have different preferences when it comes to pair programming is a very real thing.
+** My umbrella project partner had really no experience with React Testing, so he let me run the wheel a bit more than him.
+* While the problem did get solved slowly (because we are both rather inexperienced with React Testing and jest), it would have been solved much slower had I been doing it on my own.
+
+
+
+
+What pairing techniques did you use?
+* We used the driver-navigator pattern.
+* I drove in the first meeting, and he drove (mostly) in the second meeting.
+
+
+
+
+
+How would you pair with others in the future?
+* Maybe in pair programming, try to pick something we're both about as experienced in next time. Maybe?
+* But it was still very helpful even though there was an experience gap.
+
+
+
+

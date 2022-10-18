@@ -1,0 +1,144 @@
+COMMON TECH STACKS:
+
+
+
+Describe what a tech stack is:
+* My definition: "A combination of software packages that comprise the framework for an entire software application."
+* Fingent's definition: "A data ecosystem that enlists the underlying tools, frameworks, and libraries used to build and run your application."
+
+
+
+
+List some common tech stacks:
+==Stacks that I know==
+* React (frontend), Django (backend)
+* React (frontend), Flask (backend)
+* React (frontend), Firebase (cloud), Express/Node (backend), Sentry
+* Sentry is an event logging platform primarily focused on capturing and aggregating exceptions.
+
+==Stacks from online==
+* JavaScript-only stacks
+** The MEAN Stack - MongoDB, Express.js, AngularJS, and Node.js, a software stack for developing web sites with both client-side and server-side use of JavaScript.
+** The MERN Stack - MongoDB, Espress.js, React, and Node.js, another software stack for JavaScript-only development
+** The MEVN Stack - MongoDB, Espress.js, Vue.js, and Node.js, another software stack for JavaScript-only development
+*** Popular because of Vue's lightweightness compared to the others
+** Notice how in these three stacks, the only change is which FRONTEND package was picked. Personal preference decides this.
+
+
+
+* The LAMP Stack - Linux, Apache, MySQL, and PHP
+** Was one of the first open-source software stacks which is still widely used
+
+
+* Or, you can pick a serverless stack, to take advantage of CLOUD COMPUTING
+** Cloud computing lowers IT ops costs because the cloud provider manages the underlying infrastructure, including hardware and software
+** Unlimited storage capacity, so you don't have to pay for storage and buildings to store hard-drives in anymore
+** Subscription model easier to manage than an entire system
+
+
+Theorize how you might improve on existing tech stacks:
+
+
+
+
+EXERCISE (Research the tech stack of a few popular products. What can you learn from them?):
+* Visit stackshare.io.
+* Find three interesting companies and their tech stacks.
+* Compare the tech stacks between these companies.
+* Create a list of interesting tech that you would like to explore further.
+
+
+
+==Three companies and their tech stacks==
+
+===Google===
+https://stackshare.io/google/google
+Languages:
+* C++
+* Java
+* JavaScript
+* Python
+* Android SDK
+* Golang (a Google made programming language)
+* Dart (another niche language)
+
+Packages:
+* AngularJS
+* Preact - Fast 3kb alternative to React with the same ES6 API
+* LevelDB - An open-source on-disk key-value store
+
+===Wikimedia Foundation===
+https://stackshare.io/wikipedia/wikipedia
+
+Languages:
+* PHP (backend)
+* JavaScript (backend and frontend)
+* MediaWiki template markup
+
+Packages:
+* MediaWiki as their frontend
+* Node.JS
+* MySQL - The world's most popular open source database
+* NGINX - A high performance free open source web server powering busiest sites on the Internet.
+* It's pretty behind on the frontend - a more old-fashioned website
+** Probably because of the amount of differential content
+* Wikimedia Phabricator - a bug tracking technology: https://phabricator.wikimedia.org/
+* Bugzilla as a bug tracker has been abandoned
+
+===Internet Archive===
+https://stackshare.io/companies/internet-archive
+Languages:
+* JavaScript
+* PHP
+
+Packages:
+* React
+* NGINX - A high performance free open source web server powering busiest sites on the Internet.
+
+===Udemy===
+https://stackshare.io/udemy/udemy
+Languages:
+* Python
+* JavaScript
+
+Packages:
+* React (frontend)
+* Angular (frontend)
+* Nginx (backend)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+==Tech I'd like to explore further==
+* NGINX - I'm seeing that backend framework on a lot of these
+* Preact
+
+
+
+What stood out to you when comparing tech stacks between companies?
+
+
+
+
+

@@ -1,0 +1,39 @@
+
+
+
+
+What does ACK mean?
+* Stands for ackowledgement; an acknowledgement either of a packet or a message received from a network.
+
+
+
+What does FIN mean?
+* All I could find was:
+"""
+The facility ID number, also called a FIN or facility identifier, is a unique integer number[1] of one to six digits,[2] assigned by the U.S. Federal Communications Commission (FCC) Media Bureau[1] to each broadcast station in the FCC Consolidated Database System (CDBS) and Licensing and Management System (LMS) databases, among others.
+"""
+
+
+
+
+What is an HTTP status code?
+* Status codes are issued by a server in response to a client's request made to the server. Often found on APIs but can sometimes be displayed in the browser in cases of error codes
+
+
+
+
+What port is HTTP served over?
+* Port 80
+* HTTPS served over 443
+* Port 80 is a less secure network
+* When you open any webpage, it simply sends a request as examplesite.com:80 to which browser is connecting to
+
+
+
+
+What is a favicon?
+* An icon associated with a particular website, and typically displayed in the address bar of a browser viewing the site.
+* From the original filename used by Internet Explorer, "favicon.ico", an abbreviation of favorite followed by icon.
+
+
+

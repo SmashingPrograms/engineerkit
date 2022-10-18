@@ -1,0 +1,80 @@
+With this topic, you'll learn how to solve problems with other software engineers (and have fun while doing it) using pair programming techniques.
+
+Learning Outcomes
+
+
+
+List some benefits when pair programming
+* SAME AS "Explain why you might collaborate with another software engineer"
+
+
+
+
+
+Describe pair programming and mob programming techniques
+* Mob programming - "A software development approach where the whole team works on a single project at a single computer at the same time."
+* Pair programming - "A software development approach in which two programmers work together at a single keyboard, one coding while the other observes and reviews."
+
+
+==Pair programming==
+* Driver-navigator pattern
+** Driver is the one writing code
+** Navigator is helping to unpack the problem; helping to think through the problem and guiding
+* Ping-pong pattern
+** Same as driver-navigator except you switch seats regularly
+** Good pattern for automated testing; good to switch seats when you write an automated test, the other person makes it pass, etc.
+
+* It's a good idea to take breaks and switch roles, because there's a lot of talking involved and it can get very exhausting.
+* Switching roles about once every half hour is recommended
+
+* Pair programming comes from a willingness to be vulnerable - ie you have to be willing to ask questions
+
+* Mindset you should have when pair programming:
+** Be greedy but not entitled
+** Ask questions, go deep, be curious
+** BUT if your pair wants to move on, move on
+
+* How often?
+** Steven Nunez says it's good to have students pair more often than not.
+** Because as a STUDENT, you get more exposure to simple things and complicated things through pair programming.
+** You wanna know how much you DON'T know rather than think you know everything, so you can attack the concepts one by one.
+
+* How much time?
+** 20-40 minutes per session.
+
+* Pair programming should never be forced, i.e. by scheduled meetings. They are informal.
+
+
+===In-person pairing===
+* When pairing in person, use 1 computer
+* A second computer can be used as an auxiliary tool by the navigator, to look something up, etc. but the driver's computer should be the one that's coded on only.
+* Be mindful of personal space, hygiene.
+
+===Remote pairing===
+* Involves screen sharing.
+* As the driver, you'll pull down code, work on it. Then commit the code to GitHub when ready to switch, and let the other person drive.
+* As a navigator, it's easy to get distracted because no one's watching your focus. So be mindful of that and stay with it.
+
+
+==Mob programming==
+
+
+
+
+Explain why you might collaborate with another software engineer
+* It can be very productive and a lot of fun
+* The social component - working with someone else to solve problems, especially important if you're working remotely.
+* Programming alone is a heavy load. So pair programming spreads your knowledge across two brains.
+* You have the ability to ask questions on the fly while another developer is looking at it, and has the background context immediately.
+* "It is not uncommon for programmers to get caught in a problem that they think is deep, but for which there is a much simpler solution that another programmer could quickly see."
+** "Given enough eyeballs, all bugs are shallow."
+
+
+
+Compare solo programming with collaborative programming
+* Steven Nunez said "I learned so much more from pair programming at a 1-day coding retreat than I learned by myself for 2 years."
+* You will tend to want to pair on deep problems, and will want to work on trivial problems on your own.
+** It is not necessary to pair or mob for everything. Some problems just don't need a team or pair, and that time can be better spent by letting them do their thing.
+
+
+
